@@ -1,4 +1,4 @@
-# Oii, eu sou Ianna !!
+# Oii, Ianna aqui !!
 
 Estudante do Bacharelado em Sistemas de Informação, em formação.
 
