@@ -18,4 +18,4 @@ Estudante do Bacharelado em Sistemas de Informação, em formação.
 ## Contato
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/ianna-flayser-garcia)
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:flayserianna@gmail.com)
+[![Outlook](https://img.shields.io/badge/-Outlook-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white)](mailto:flayserianna@outlook.com)
